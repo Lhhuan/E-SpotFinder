@@ -5,6 +5,7 @@ E-SpotFinder is a machine-learning algorithm for identifying tissue or cell-spec
 Input file
 ===
 Feature matrix
+
 Feature matrix contains 396 k-mer, GC contant and 9 epigenetic marks. An example of Feature matrix format is Example_input.txt.gz.
 
 Running E-SpotFinder
