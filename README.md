@@ -27,8 +27,12 @@ Required modules
 ===
 
 Python: 3.9.12
+
     pandas: 1.2.5
+
     numpy: 1.20.3
+
     pickle: 4.0
+    
     xgboost: 1.5.0
 
